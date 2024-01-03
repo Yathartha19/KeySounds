@@ -3,10 +3,12 @@
 
 ### To Run On Desktop
 
-installing dependencies:
+Install Dependencies:
 - npm install child_process
 - npm install sound-play
-then run keys.js with node
+  
+Then run 'keys.js' with node:
+- node keys.js
 
 
 
